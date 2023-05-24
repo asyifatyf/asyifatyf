@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asyifatyf
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Big Data
+- 🌱 I’m currently learning IOS Development
 - 📫 How to reach me www.linkedin.com/in/asyifa-tasya-fadilah
 
 <!---
