@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asyifatyf
-- 🌱 I’m currently learning IOS Development
+- 🌱 I’m interested in Project Management, Data analyst, and System Development
 - 📫 How to reach me www.linkedin.com/in/asyifa-tasya-fadilah
 
 <!---
